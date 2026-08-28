@@ -1,0 +1,37 @@
+name: Generate animated 3D contribution graph
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-3d-contrib
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v5
+
+      - name: Generate 3D contribution graphics
+        # Auto 3D Contributions v7-beta, pinned to its release commit
+        uses: offensive-vk/auto-contributions@1a2df514dd5df84412af97144c1daa12b06a3db3
+        env:
+          GITHUB_TOKEN: ${{ secrets.PRIVATE_CONTRIBUTIONS_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit updated graphics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update 3D contribution graph"
+          git push
