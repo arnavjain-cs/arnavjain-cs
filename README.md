@@ -5,7 +5,6 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=arnavjain-cs&color=e0913f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/Open%20to-Collaborate-e0913f?style=for-the-badge" alt="Open to Collaborate"/>
 
 <br/><br/>
 
@@ -13,11 +12,9 @@
 
 <br/>
 
+<img align="right" src="ascii-art.svg" width="45%" alt="ASCII portrait of Arnav Jain" style="margin-left: 15px; margin-top: -10px;"/>
+
 ### 👋 About Me
-
-<div style="display: flex; gap: 30px;">
-
-<div style="flex: 1;">
 
 Hey! I'm a Computer Science student deeply interested in SWE, AI, cybersecurity, and other emerging technologies.
 
@@ -27,25 +24,15 @@ I'm also a driven leader in several major student led organizations where I enjo
 
 If you are working on something exciting or looking to collaborate, feel free to reach out at **arnavjain.cs@gmail.com**!
 
-</div>
-
-<!--
-  Real colored ASCII art (not a photo) — each cell below is an actual monospace
-  character, rendered as vector SVG text and staggered in with a one-time
-  reveal animation (top-to-bottom, left-to-right, ~3s) via SMIL <animate>.
-  Same technique readme-typing-svg uses, so it plays fine embedded as an <img>.
--->
-<img src="ascii-art.svg" width="45%" alt="ASCII portrait of Arnav Jain" style="flex-shrink: 0; margin-top: -110px;"/>
-
-</div>
-
-<div align="center" style="margin-top: 40px;">
-
-&nbsp;Computer Science Student &nbsp;|&nbsp; &nbsp;Builder at Heart &nbsp;|&nbsp; &nbsp;Team &amp; Org Leader &nbsp;
-
-</div>
+<br clear="both"/>
 
 <br/>
+<div align="center" style="margin-top: 150px;">
+
+&nbsp;Computer Science Student &nbsp;|&nbsp; &nbsp;Builder at Heart &nbsp;|&nbsp; &nbsp;Team &amp; Org Leader &nbsp;
+<br/>
+
+</div>
 
 ## Tech Stack & Skills
 
@@ -98,39 +85,35 @@ If you are working on something exciting or looking to collaborate, feel free to
 
 ## Featured Projects
 
-<div style="display: flex; gap: 30px; justify-content: center; flex-wrap: wrap;">
+<table> <tr> <td width="33%" align="center">
 
-<div style="flex: 1; min-width: 250px; text-align: center;">
-
-### [Vigilant](https://github.com/arnavjain-cs/Vigilant)
+Vigilant
 
 <img src="assets/project-vigilant.png" width="100%" alt="Vigilant — AI vigilance for safer schools"/>
 
-AI-powered vigilance system built for safer schools — real-time detection and alerting.
+AI-powered vigilance system built for safer schools with real-time detection and alerting.
 
-</div>
+</td>
 
-<div style="flex: 1; min-width: 250px; text-align: center;">
+<td width="33%" align="center">
 
-### [Aviata](https://github.com/arnavjain-cs/Aviata)
+Aviata
 
 <img src="assets/project-aviata.png" width="100%" alt="Aviata — aviation command center"/>
 
-An aviation command center unifying ATC, security, and baggage-tracking dashboards with real-time conflict detection and simulation.
+An aviation command center unifying ATC, security, and baggage dashboards with real-time conflict detection
 
-</div>
+</td>
 
-<div style="flex: 1; min-width: 250px; text-align: center;">
+<td width="33%" align="center">
 
-### [NeuroCrop](https://github.com/arnavjain-cs/2025-TSA-Nationals-Software-Development-Team-1602-1)
+NeuroCrop
 
 <img src="assets/project-neurocrop.png" width="100%" alt="NeuroCrop — AI-powered precision agriculture system"/>
 
-An AI-powered precision agriculture system — TSA Nationals Software Development Conference
+An AI-powered precision agriculture system - TSA Nationals Software Development Conference.
 
-</div>
-
-</div>
+</td> </tr> </table>
 
 <br/>
 
@@ -138,12 +121,8 @@ An AI-powered precision agriculture system — TSA Nationals Software Developmen
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arnavjain-cs&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavjain-cs&layout=compact&theme=gruvbox&hide_border=true" height="165"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=arnavjain-cs&hide_current_streak=true&hide_longest_streak=true&card_width=320&hide_border=true&background=0D1117&sideNums=E6EDF3&sideLabels=E0913F&dates=7D8590" alt="Total GitHub Contributions"/>
+<img src="https://streak-stats.demolab.com/?user=arnavjain-cs&hide_current_streak=true&hide_longest_streak=true&card_width=320&border=E0913F&background=0D1117&sideNums=E6EDF3&sideLabels=E0913F&dates=7D8590" alt="Total GitHub Contributions"/>
 
 </div>
 
