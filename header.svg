@@ -35,7 +35,7 @@
 
     <!-- line 3: tagline comment -->
     <text x="70" y="196" font-size="16" fill="#e0913f">
-      <tspan># CS student · builder · security-minded · student leader</tspan>
+      <tspan># CS student · builder · thinker · student leader</tspan>
     </text>
 
     <!-- line 4: fresh prompt with blinking cursor -->
