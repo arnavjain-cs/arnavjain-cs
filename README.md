@@ -12,7 +12,7 @@
 
 <br/>
 
-<img align="right" src="ascii-art.svg" width="45%" alt="ASCII portrait of Arnav Jain" style="margin-left: 15px; margin-top: -10px;"/>
+<img align="right" src="animated-ascii-art.svg" width="45%" alt="ASCII portrait of Arnav Jain" style="margin-left: 15px; margin-top: -10px;"/>
 
 ### 👋 About Me
 
