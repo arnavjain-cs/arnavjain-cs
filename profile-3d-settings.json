@@ -4,16 +4,16 @@
     "fileName": "profile-3d.svg",
     "backgroundColor": "#2b2f35",
     "foregroundColor": "#ffffff",
-    "strongColor": "#feaf5d",
-    "weakColor": "#feaf5d",
-    "radarColor": "#feaf5d",
+    "strongColor": "#4ade80",
+    "weakColor": "#4ade80",
+    "radarColor": "#4ade80",
     "growingAnimation": true,
     "contribColors": [
       "#343940",
-      "#584835",
-      "#896241",
-      "#c6833d",
-      "#feaf5d"
+      "#254d35",
+      "#287a47",
+      "#32a85c",
+      "#4ade80"
     ]
   }
 ]
